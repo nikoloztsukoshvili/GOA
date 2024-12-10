@@ -1,0 +1,7 @@
+img :hover{
+    font-size: large;
+    font-family: cursive;
+    box-sizing: border-box;
+    color: aquamarine;
+    transform: scale(1.2) rotate(30deg);
+}
