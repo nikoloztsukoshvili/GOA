@@ -1,0 +1,10 @@
+:root {
+    --h1color:black
+    --h1backgroundcolor:green
+    --h1transform:rotate(90deg)
+}
+h1 {
+    color:var(--h1color);
+    background-color:var();
+    
+}
