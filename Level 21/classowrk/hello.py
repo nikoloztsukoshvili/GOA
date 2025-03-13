@@ -12,5 +12,5 @@
 # (3)==============================================================
 # ?
 # pueue = [1,4,3,5,7,6,8,9,1,2,6,3,9,5,3,8]
-# pueue.insert(15, int(input("enter a num: ")))
+# pueue.append(int(input("enter a num: ")))
 # print(pueue)

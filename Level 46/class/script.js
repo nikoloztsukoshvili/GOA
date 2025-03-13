@@ -1,0 +1,5 @@
+let name = prompt("enter your name: ")
+let last = prompt("enter last name:")
+let place = prompt("enter where u live:")
+let age = parseInt("enter your age: ")
+console.log("hi my name is" + " " + name + " and my last name is " + last + " im" + age + "and live in" + place)
